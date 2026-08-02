@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" role="img" aria-label="Section 02 — Tech stack">
+  <defs>
+    <style>
+      .sans { font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+      .mono { font-family: ui-monospace, "JetBrains Mono", "SF Mono", Menlo, monospace; }
+    </style>
+  </defs>
+  <rect width="1200" height="90" fill="#0D1117"/>
+  <rect x="0" y="0" width="6" height="90" fill="#3B82F6"/>
+  <text x="48" y="52" class="mono" font-weight="400" font-size="14" fill="#3B82F6" letter-spacing="2">02</text>
+  <text x="96" y="54" class="sans" font-weight="500" font-size="28" fill="#F8FAFC">Tech stack</text>
+  <text x="1152" y="54" text-anchor="end" class="mono" font-weight="400" font-size="12" fill="#64748B" letter-spacing="1.5">// PYTHON · FASTAPI · REACT · CUDA · DOCKER</text>
+  <line x1="48" y1="76" x2="1152" y2="76" stroke="#1F2937" stroke-width="1"/>
+</svg>

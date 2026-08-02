@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-label="Arham — Engineer who ships">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+      .mono { font-family: ui-monospace, "JetBrains Mono", "SF Mono", Menlo, monospace; }
+      .w400 { font-weight: 400; }
+      .w500 { font-weight: 500; }
+    </style>
+  </defs>
+
+  <!-- surface -->
+  <rect width="1200" height="360" fill="url(#bg)"/>
+
+  <!-- left accent bar -->
+  <rect x="0" y="0" width="6" height="360" fill="#3B82F6"/>
+
+  <!-- top monospace crumb -->
+  <text x="48" y="52" class="mono w400" font-size="13" fill="#64748B" letter-spacing="1.5">// GITHUB.COM/ARHAMURRAHEMEEN</text>
+
+  <!-- wordmark -->
+  <text x="48" y="188" class="sans w500" font-size="132" fill="#F8FAFC" letter-spacing="-3">Arham</text>
+
+  <!-- subtitle -->
+  <text x="52" y="238" class="sans w400" font-size="26" fill="#94A3B8">Engineer who ships.</text>
+
+  <!-- tagline row -->
+  <g transform="translate(48, 292)">
+    <rect x="0" y="0" width="10" height="10" fill="#3B82F6"/>
+    <text x="22" y="10" class="mono w400" font-size="13" fill="#94A3B8" letter-spacing="1">IIoT · EMBEDDED SYSTEMS · KARACHI, PK</text>
+  </g>
+
+  <!-- motif: signal wave (nod to VitalSense rPPG) + dot grid (IIoT) -->
+  <g transform="translate(720, 60)">
+    <!-- dot grid -->
+    <g fill="#1F2937">
+      <circle cx="0"   cy="0" r="2"/><circle cx="30"  cy="0" r="2"/><circle cx="60"  cy="0" r="2"/><circle cx="90"  cy="0" r="2"/><circle cx="120" cy="0" r="2"/><circle cx="150" cy="0" r="2"/><circle cx="180" cy="0" r="2"/><circle cx="210" cy="0" r="2"/><circle cx="240" cy="0" r="2"/><circle cx="270" cy="0" r="2"/><circle cx="300" cy="0" r="2"/><circle cx="330" cy="0" r="2"/><circle cx="360" cy="0" r="2"/><circle cx="390" cy="0" r="2"/><circle cx="420" cy="0" r="2"/>
+      <circle cx="0"   cy="30" r="2"/><circle cx="30"  cy="30" r="2"/><circle cx="60"  cy="30" r="2"/><circle cx="90"  cy="30" r="2"/><circle cx="120" cy="30" r="2"/><circle cx="150" cy="30" r="2"/><circle cx="180" cy="30" r="2"/><circle cx="210" cy="30" r="2"/><circle cx="240" cy="30" r="2"/><circle cx="270" cy="30" r="2"/><circle cx="300" cy="30" r="2"/><circle cx="330" cy="30" r="2"/><circle cx="360" cy="30" r="2"/><circle cx="390" cy="30" r="2"/><circle cx="420" cy="30" r="2"/>
+      <circle cx="0"   cy="60" r="2"/><circle cx="30"  cy="60" r="2"/><circle cx="60"  cy="60" r="2"/><circle cx="90"  cy="60" r="2"/><circle cx="120" cy="60" r="2"/><circle cx="150" cy="60" r="2"/><circle cx="180" cy="60" r="2"/><circle cx="210" cy="60" r="2"/><circle cx="240" cy="60" r="2"/><circle cx="270" cy="60" r="2"/><circle cx="300" cy="60" r="2"/><circle cx="330" cy="60" r="2"/><circle cx="360" cy="60" r="2"/><circle cx="390" cy="60" r="2"/><circle cx="420" cy="60" r="2"/>
+      <circle cx="0"   cy="90" r="2"/><circle cx="30"  cy="90" r="2"/><circle cx="60"  cy="90" r="2"/><circle cx="90"  cy="90" r="2"/><circle cx="120" cy="90" r="2"/><circle cx="150" cy="90" r="2"/><circle cx="180" cy="90" r="2"/><circle cx="210" cy="90" r="2"/><circle cx="240" cy="90" r="2"/><circle cx="270" cy="90" r="2"/><circle cx="300" cy="90" r="2"/><circle cx="330" cy="90" r="2"/><circle cx="360" cy="90" r="2"/><circle cx="390" cy="90" r="2"/><circle cx="420" cy="90" r="2"/>
+      <circle cx="0"   cy="120" r="2"/><circle cx="30"  cy="120" r="2"/><circle cx="60"  cy="120" r="2"/><circle cx="90"  cy="120" r="2"/><circle cx="120" cy="120" r="2"/><circle cx="150" cy="120" r="2"/><circle cx="180" cy="120" r="2"/><circle cx="210" cy="120" r="2"/><circle cx="240" cy="120" r="2"/><circle cx="270" cy="120" r="2"/><circle cx="300" cy="120" r="2"/><circle cx="330" cy="120" r="2"/><circle cx="360" cy="120" r="2"/><circle cx="390" cy="120" r="2"/><circle cx="420" cy="120" r="2"/>
+    </g>
+
+    <!-- baseline -->
+    <line x1="0" y1="180" x2="420" y2="180" stroke="#1F2937" stroke-width="1"/>
+
+    <!-- PPG waveform -->
+    <path d="M 0 180 L 40 180 L 55 178 L 70 175 L 85 120 L 95 60 L 105 130 L 115 175 L 140 180 L 180 180 L 195 178 L 210 175 L 225 120 L 235 60 L 245 130 L 255 175 L 280 180 L 320 180 L 335 178 L 350 175 L 365 120 L 375 60 L 385 130 L 395 175 L 420 180"
+          fill="none" stroke="#3B82F6" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+
+    <!-- accent dot on peak -->
+    <circle cx="95" cy="60" r="4" fill="#60A5FA"/>
+    <text x="102" y="52" class="mono w400" font-size="11" fill="#60A5FA">72 BPM</text>
+  </g>
+
+  <!-- hairline rule -->
+  <line x1="48" y1="332" x2="1152" y2="332" stroke="#1F2937" stroke-width="1"/>
+</svg>

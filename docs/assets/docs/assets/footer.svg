@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" role="img" aria-label="Thanks for visiting — @Arhamurrahemeen">
+  <defs>
+    <style>
+      .sans { font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+      .mono { font-family: ui-monospace, "JetBrains Mono", "SF Mono", Menlo, monospace; }
+    </style>
+  </defs>
+  <rect width="1200" height="160" fill="#0D1117"/>
+
+  <!-- wave -->
+  <path d="M 0 90 Q 150 60 300 90 T 600 90 T 900 90 T 1200 90 L 1200 160 L 0 160 Z" fill="#1E3A8A" opacity="0.35"/>
+  <path d="M 0 110 Q 150 80 300 110 T 600 110 T 900 110 T 1200 110 L 1200 160 L 0 160 Z" fill="#1E40AF" opacity="0.55"/>
+  <path d="M 0 130 Q 150 100 300 130 T 600 130 T 900 130 T 1200 130 L 1200 160 L 0 160 Z" fill="#3B82F6" opacity="0.9"/>
+
+  <!-- hairline -->
+  <line x1="48" y1="30" x2="1152" y2="30" stroke="#1F2937" stroke-width="1"/>
+
+  <!-- text -->
+  <text x="600" y="66" text-anchor="middle" class="sans" font-weight="500" font-size="22" fill="#F8FAFC">Thanks for visiting.</text>
+  <text x="600" y="90" text-anchor="middle" class="mono" font-weight="400" font-size="12" fill="#94A3B8" letter-spacing="1.5">// @ARHAMURRAHEMEEN · KARACHI, PK</text>
+</svg>
