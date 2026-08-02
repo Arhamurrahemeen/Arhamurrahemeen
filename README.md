@@ -1,10 +1,6 @@
-<!-- ================= BANNER ================= -->
+<!-- ================= HERO BANNER ================= -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=220&section=header&text=Arham&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Engineer%20who%20ships&descSize=18&descAlignY=60&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,100:2563eb&height=220&section=header&text=Arham&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Engineer%20who%20ships&descSize=18&descAlignY=60&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=220&section=header&text=Arham&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Engineer%20who%20ships&descSize=18&descAlignY=60&animation=fadeIn" alt="banner"/>
-  </picture>
+  <img src="docs/assets/hero.svg" width="100%" alt="Arham — Engineer who ships"/>
 </p>
 
 <!-- ================= TITLE ================= -->
@@ -13,17 +9,20 @@
 <!-- ================= TYPING SVG ================= -->
 <p align="center">
   <a href="https://github.com/Arhamurrahemeen">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&multiline=false&width=720&height=45&lines=Computer+Systems+Engineer;Building+IIoT+%2B+Agentic+AI+for+Pakistani+SMEs;Founder+%40+TwinLab+%C2%B7+Karachi%2C+PK;Ship+first%2C+polish+later" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&multiline=false&width=760&height=45&lines=ELXR%2726+Winner+%C2%B7+KSBL+Karachi;Founder+%40+TwinLab+%C2%B7+IIoT+%2B+Agentic+AI;Computer+Systems+Engineer+%40+DUET;Ship+first%2C+polish+later" alt="typing"/>
   </a>
 </p>
 
 <!-- ================= BADGES ================= -->
 <p align="center">
+  <a href="https://github.com/Arhamurrahemeen/TwinLab-AI">
+    <img src="https://img.shields.io/badge/Winner-ELXR'26%20%C2%B7%20KSBL-F59E0B?style=for-the-badge&logo=trophy&logoColor=white&labelColor=1f1f1f" alt="ELXR winner"/>
+  </a>
   <a href="https://github.com/Arhamurrahemeen?tab=followers">
-    <img src="https://img.shields.io/github/followers/Arhamurrahemeen?style=for-the-badge&logo=github&labelColor=1f1f1f&color=ec4899" alt="followers"/>
+    <img src="https://img.shields.io/github/followers/Arhamurrahemeen?style=for-the-badge&logo=github&labelColor=1f1f1f&color=EC4899" alt="followers"/>
   </a>
   <a href="https://github.com/Arhamurrahemeen">
-    <img src="https://img.shields.io/github/stars/Arhamurrahemeen?style=for-the-badge&logo=starship&labelColor=1f1f1f&color=ec4899" alt="stars"/>
+    <img src="https://img.shields.io/github/stars/Arhamurrahemeen?style=for-the-badge&logo=starship&labelColor=1f1f1f&color=EC4899" alt="stars"/>
   </a>
   <a href="https://github.com/Arhamurrahemeen">
     <img src="https://komarev.com/ghpvc/?username=Arhamurrahemeen&style=for-the-badge&color=EC4899&label=PROFILE+VIEWS" alt="views"/>
@@ -32,8 +31,35 @@
 
 <br/>
 
+<!-- ================= WINNER CARD ================= -->
+<table align="center" width="90%">
+  <tr>
+    <td width="18%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Trophy/3D/trophy_3d.png" width="120" alt="trophy"/>
+    </td>
+    <td width="82%" valign="middle">
+      <h3>🏆 Winner — ELXR'26, KSBL Karachi</h3>
+      <p>
+        Took first place at the <b>ELXR'26 National Hackathon</b> hosted by <b>Karachi School of Business & Leadership</b>
+        with <a href="https://github.com/Arhamurrahemeen/TwinLab-AI"><b>TwinLab</b></a> — a generator-first
+        IIoT predictive maintenance platform built for Pakistan's asset-heavy SMEs.
+      </p>
+      <p>
+        <sub>Wireless condition monitoring + WhatsApp alerts, priced in PKR. Pilots at HSK Bone Care, Shahruk Shell, NFL Faisalabad.</sub>
+      </p>
+      <p>
+        <a href="https://github.com/Arhamurrahemeen/TwinLab-AI">
+          <img src="https://img.shields.io/badge/View%20TwinLab-1E3A8A?style=flat-square&logo=github&logoColor=white" alt="view twinlab"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <!-- ================= ABOUT ================= -->
-<h2 align="center">🧠 About Me</h2>
+<p align="center"><img src="docs/assets/divider-01-about.svg" width="100%" alt="Section 01 — About me"/></p>
 
 <table align="center" width="100%">
   <tr>
@@ -43,11 +69,11 @@
         I'm <b>Muhammad Arham</b> — a Computer Systems Engineering student at <b>DUET Karachi</b> who spends most of his time shipping things.
       </p>
       <ul>
-        <li>🏭 Currently building <b>TwinLab</b> — generator-first IIoT predictive maintenance for Pakistan's asset-heavy SMEs.</li>
-        <li>🫀 Also built <b>VitalSense</b> — camera-based real-time vital signs monitor using rPPG + DSP + LLMs.</li>
-        <li>🤖 Playing with <b>agentic AI</b>, WhatsApp workflows, and Roman Urdu LLM UX.</li>
+        <li>🏭 Founder of <b>TwinLab</b> — generator-first IIoT predictive maintenance for Pakistan's SMEs. <b>ELXR'26 winner</b>.</li>
+        <li>🫀 Built <b>VitalSense</b> — camera-based real-time vital signs monitor using rPPG + DSP + LLMs.</li>
+        <li>🤖 Shipping <b>Sindh-Agents</b> — WhatsApp-native AI employees for SMEs, in Roman Urdu.</li>
         <li>⚡ Learning <b>CUDA</b>, parallel computing, and everything that makes silicon go brrr.</li>
-        <li>📍 Karachi, Pakistan · 🎯 NIC Hyderabad / NIC Karachi</li>
+        <li>📍 Karachi, Pakistan · 🎯 NIC Hyderabad / NIC Karachi · 🏢 OmniteX</li>
       </ul>
       <p><i>"Compression over completeness. Ship first, polish later."</i></p>
     </td>
@@ -60,11 +86,11 @@
 <br/>
 
 <!-- ================= TECH STACK ================= -->
-<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center"><img src="docs/assets/divider-02-stack.svg" width="100%" alt="Section 02 — Tech stack"/></p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,rust,java,js,ts,react,vite,tailwind,html,css&theme=dark" alt="frontend/languages"/>
+    <img src="https://skillicons.dev/icons?i=python,cpp,rust,java,js,ts,react,vite,tailwind,html,css&theme=dark" alt="languages"/>
   </a>
 </p>
 
@@ -83,7 +109,7 @@
 <br/>
 
 <!-- ================= STATS ================= -->
-<h2 align="center">📊 GitHub Stats</h2>
+<p align="center"><img src="docs/assets/divider-03-stats.svg" width="100%" alt="Section 03 — GitHub stats"/></p>
 
 <p align="center">
   <a href="https://github.com/Arhamurrahemeen">
@@ -109,7 +135,7 @@
 <br/>
 
 <!-- ================= SNAKE ================= -->
-<h2 align="center">🐍 Contribution Snake</h2>
+<p align="center"><img src="docs/assets/divider-04-snake.svg" width="100%" alt="Section 04 — Contribution snake"/></p>
 
 <!--
   This uses the "Platane/snk" GitHub Action to generate the snake SVGs.
@@ -129,7 +155,7 @@
 <br/>
 
 <!-- ================= CONNECT ================= -->
-<h2 align="center">🌐 Connect With Me</h2>
+<p align="center"><img src="docs/assets/divider-05-connect.svg" width="100%" alt="Section 05 — Connect"/></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-arham-rajput">
@@ -149,9 +175,7 @@
 <br/>
 
 <!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=140&section=footer&text=Thanks%20for%20visiting&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling" alt="footer"/>
-</p>
+<p align="center"><img src="docs/assets/footer.svg" width="100%" alt="Thanks for visiting"/></p>
 
 <p align="center">
   <sub>Built with ☕ and stubbornness · <a href="https://github.com/Arhamurrahemeen">@Arhamurrahemeen</a></sub>
