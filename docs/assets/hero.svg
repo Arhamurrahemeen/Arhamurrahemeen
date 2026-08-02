@@ -30,7 +30,7 @@
   <!-- tagline row -->
   <g transform="translate(48, 292)">
     <rect x="0" y="0" width="10" height="10" fill="#3B82F6"/>
-    <text x="22" y="10" class="mono w400" font-size="13" fill="#94A3B8" letter-spacing="1">IIoT · AGENTIC AI · DSP · KARACHI, PK</text>
+    <text x="22" y="10" class="mono w400" font-size="13" fill="#94A3B8" letter-spacing="1">IIoT · EMBEDDED SYSTEMS · KARACHI, PK</text>
   </g>
 
   <!-- motif: signal wave (nod to VitalSense rPPG) + dot grid (IIoT) -->
