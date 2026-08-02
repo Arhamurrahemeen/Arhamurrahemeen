@@ -9,7 +9,7 @@
 <!-- ================= TYPING SVG ================= -->
 <p align="center">
   <a href="https://github.com/Arhamurrahemeen">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&multiline=false&width=760&height=45&lines=ELXR%2726+Winner+%C2%B7+KSBL+Karachi;Founder+%40+TwinLab+%C2%B7+IIoT+%2B+Agentic+AI;Computer+Systems+Engineer+%40+DUET;Ship+first%2C+polish+later" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&multiline=false&width=760&height=45&lines=ELXR%2726+Winner+%C2%B7+KSBL+Karachi;Founder+%40+TwinLab+%C2%B7+IIoT+%2B+Embedded+Systems;Computer+Systems+Engineer+%40+DUET;Ship+first%2C+polish+later" alt="typing"/>
   </a>
 </p>
 
@@ -35,10 +35,10 @@
 <table align="center" width="90%">
   <tr>
     <td width="18%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Trophy/3D/trophy_3d.png" width="120" alt="trophy"/>
+      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f3c6.png" width="96" alt="trophy"/>
     </td>
     <td width="82%" valign="middle">
-      <h3>🏆 Winner — ELXR'26, KSBL Karachi</h3>
+      <h3>Winner — ELXR'26, KSBL Karachi</h3>
       <p>
         Took first place at the <b>ELXR'26 National Hackathon</b> hosted by <b>Karachi School of Business & Leadership</b>
         with <a href="https://github.com/Arhamurrahemeen/TwinLab-AI"><b>TwinLab</b></a> — a generator-first
@@ -61,27 +61,19 @@
 <!-- ================= ABOUT ================= -->
 <p align="center"><img src="docs/assets/divider-01-about.svg" width="100%" alt="Section 01 — About me"/></p>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <br/>
-      <p>
-        I'm <b>Muhammad Arham</b> — a Computer Systems Engineering student at <b>DUET Karachi</b> who spends most of his time shipping things.
-      </p>
-      <ul>
-        <li>🏭 Founder of <b>TwinLab</b> — generator-first IIoT predictive maintenance for Pakistan's SMEs. <b>ELXR'26 winner</b>.</li>
-        <li>🫀 Built <b>VitalSense</b> — camera-based real-time vital signs monitor using rPPG + DSP + LLMs.</li>
-        <li>🤖 Shipping <b>Sindh-Agents</b> — WhatsApp-native AI employees for SMEs, in Roman Urdu.</li>
-        <li>⚡ Learning <b>CUDA</b>, parallel computing, and everything that makes silicon go brrr.</li>
-        <li>📍 Karachi, Pakistan · 🎯 NIC Hyderabad / NIC Karachi · 🏢 OmniteX</li>
-      </ul>
-      <p><i>"Compression over completeness. Ship first, polish later."</i></p>
-    </td>
-    <td width="35%" align="center">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Man%20technologist/3D/man_technologist_3d_default.png" width="220" alt="dev"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  I'm <b>Muhammad Arham</b> — a Computer Systems Engineering student at <b>DUET Karachi</b> who spends most of his time shipping things.
+</p>
+
+<ul>
+  <li>🏭 Founder of <b>TwinLab</b> — generator-first IIoT predictive maintenance for Pakistan's SMEs. <b>ELXR'26 winner</b>.</li>
+  <li>🫀 Built <b>VitalSense</b> — camera-based real-time vital signs monitor using rPPG + DSP + LLMs.</li>
+  <li>⚡ Learning <b>CUDA</b>, parallel computing, and everything that makes silicon go brrr.</li>
+  <li>🧪 Documenting my methodology in <b>The-Arham-Way</b> — a blueprint-first approach to shipping full-stack apps with LLMs.</li>
+  <li>📍 Karachi, Pakistan · 🎯 NIC Hyderabad / NIC Karachi · 🏢 OmniteX</li>
+</ul>
+
+<p align="center"><i>"Compression over completeness. Ship first, polish later."</i></p>
 
 <br/>
 
@@ -108,21 +100,58 @@
 
 <br/>
 
-<!-- ================= STATS ================= -->
-<p align="center"><img src="docs/assets/divider-03-stats.svg" width="100%" alt="Section 03 — GitHub stats"/></p>
+<!-- ================= FEATURED PROJECTS ================= -->
+<p align="center"><img src="docs/assets/divider-03-stats.svg" width="100%" alt="Section 03 — Featured projects"/></p>
 
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏭 <a href="https://github.com/Arhamurrahemeen/TwinLab-AI">TwinLab-AI</a></h3>
+      <p>Generator-first IIoT predictive maintenance for Pakistan's asset-heavy SMEs. WhatsApp alerts, priced in PKR.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/Arhamurrahemeen/TwinLab-AI?style=flat-square&logo=github&labelColor=1f1f1f&color=3B82F6" alt="stars"/>
+        <img src="https://img.shields.io/github/last-commit/Arhamurrahemeen/TwinLab-AI?style=flat-square&logo=github&labelColor=1f1f1f&color=3B82F6" alt="last commit"/>
+        <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square&logo=python&logoColor=white" alt="python"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🫀 <a href="https://github.com/Arhamurrahemeen/VitalSense">VitalSense</a></h3>
+      <p>Camera-based real-time vital signs monitor using rPPG, DSP + LLMs. Heart rate, HRV, stress — no sensors.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/Arhamurrahemeen/VitalSense?style=flat-square&logo=github&labelColor=1f1f1f&color=3B82F6" alt="stars"/>
+        <img src="https://img.shields.io/github/last-commit/Arhamurrahemeen/VitalSense?style=flat-square&logo=github&labelColor=1f1f1f&color=3B82F6" alt="last commit"/>
+        <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square&logo=python&logoColor=white" alt="python"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/Arhamurrahemeen/An-Even-Easier-Introduction-to-CUDA">CUDA notes</a></h3>
+      <p>Learning the fundamentals of GPU acceleration and parallel computing. Documented, worked through, tested.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/Arhamurrahemeen/An-Even-Easier-Introduction-to-CUDA?style=flat-square&logo=github&labelColor=1f1f1f&color=3B82F6" alt="stars"/>
+        <img src="https://img.shields.io/badge/Jupyter-3B82F6?style=flat-square&logo=jupyter&logoColor=white" alt="jupyter"/>
+        <img src="https://img.shields.io/badge/CUDA-3B82F6?style=flat-square&logo=nvidia&logoColor=white" alt="cuda"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 <a href="https://github.com/Arhamurrahemeen/The-Arham-Way">The Arham Way</a></h3>
+      <p>Blueprint-first methodology for building full-stack apps with Claude, Gemini, and other LLMs.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/Arhamurrahemeen/The-Arham-Way?style=flat-square&logo=github&labelColor=1f1f1f&color=3B82F6" alt="stars"/>
+        <img src="https://img.shields.io/github/last-commit/Arhamurrahemeen/The-Arham-Way?style=flat-square&logo=github&labelColor=1f1f1f&color=3B82F6" alt="last commit"/>
+        <img src="https://img.shields.io/badge/Methodology-3B82F6?style=flat-square" alt="methodology"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ================= ACTIVITY ================= -->
 <p align="center">
   <a href="https://github.com/Arhamurrahemeen">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Arhamurrahemeen&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=60A5FA&text_color=E5E7EB" alt="stats"/>
-  </a>
-  <a href="https://github.com/Arhamurrahemeen">
-    <img height="170" src="https://streak-stats.demolab.com?user=Arhamurrahemeen&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=3B82F6" alt="streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Arhamurrahemeen">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arhamurrahemeen&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB&langs_count=8" alt="top-langs"/>
+    <img height="180" src="https://streak-stats.demolab.com?user=Arhamurrahemeen&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=3B82F6" alt="streak"/>
   </a>
 </p>
 
@@ -138,10 +167,13 @@
 <p align="center"><img src="docs/assets/divider-04-snake.svg" width="100%" alt="Section 04 — Contribution snake"/></p>
 
 <!--
-  This uses the "Platane/snk" GitHub Action to generate the snake SVGs.
-  Add a workflow at .github/workflows/snake.yml that runs on schedule + push
-  and commits the generated files to the `output` branch. See:
-  https://github.com/Platane/snk
+  REQUIRED SETUP for the snake to render:
+  1. Commit .github/workflows/snake.yml (provided alongside this README)
+  2. Go to your repo → Settings → Actions → General → set Workflow permissions
+     to "Read and write permissions" → Save
+  3. Go to Actions tab → run the "Generate Snake" workflow manually the first time
+  4. That creates the `output` branch containing the SVGs referenced below
+  See: https://github.com/Platane/snk
 -->
 
 <p align="center">
