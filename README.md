@@ -221,6 +221,9 @@
 <p align="center"><img src="docs/assets/divider-05-connect.svg" width="100%" alt="Section 05 — Connect"/></p>
 
 <p align="center">
+  <a href="https://arham-puce.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/muhammad-arham-rajput">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
