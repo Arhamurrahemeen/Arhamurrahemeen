@@ -28,11 +28,16 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Generate streak stats SVG (self-rendered, not the shared demolab.com instance)
+        # Needs a real PAT (github.com/settings/tokens/new, no scopes required) saved as the
+        # STREAK_TOKEN repo secret — secrets.GITHUB_TOKEN is a repo-scoped installation token
+        # and cannot read the GraphQL contributionsCollection field, which is why this step
+        # (and the demolab.com host, using its own maintainer's token) intermittently produced
+        # a "Failed to retrieve contributions" error graphic instead of failing outright.
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: "user=Arhamurrahemeen&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=3B82F6"
           path: dist/streak-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STREAK_TOKEN }}
 
       - name: Push generated SVGs to `output` branch
         uses: crazy-max/ghaction-github-pages@v4
