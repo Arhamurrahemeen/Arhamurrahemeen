@@ -18,6 +18,9 @@
   <a href="https://github.com/Arhamurrahemeen/TwinLab">
     <img src="https://img.shields.io/badge/2nd%20Runner--Up-ELXR'26%20%C2%B7%20KSBL-F59E0B?style=for-the-badge&logo=trophy&logoColor=white&labelColor=1f1f1f" alt="ELXR 2nd runner-up"/>
   </a>
+  <a href="https://github.com/Arhamurrahemeen/Loop">
+    <img src="https://img.shields.io/badge/3rd%20Place-Social%20Nova%20'26-3B82F6?style=for-the-badge&logo=android&logoColor=white&labelColor=1f1f1f" alt="Loop 3rd place"/>
+  </a>
   <a href="https://github.com/Arhamurrahemeen?tab=followers">
     <img src="https://img.shields.io/github/followers/Arhamurrahemeen?style=for-the-badge&logo=github&labelColor=1f1f1f&color=EC4899" alt="followers"/>
   </a>
@@ -50,6 +53,33 @@
       <p>
         <a href="https://github.com/Arhamurrahemeen/TwinLab">
           <img src="https://img.shields.io/badge/View%20TwinLab-1E3A8A?style=flat-square&logo=github&logoColor=white" alt="view twinlab"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ================= LOOP CARD ================= -->
+<table align="center" width="90%">
+  <tr>
+    <td width="18%" align="center" valign="middle">
+      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f949.png" width="96" alt="bronze medal"/>
+    </td>
+    <td width="82%" valign="middle">
+      <h3>3rd Place — Social Nova Hackathon 2026, Habib University</h3>
+      <p>
+        Built <a href="https://github.com/Arhamurrahemeen/Loop"><b>Loop</b></a> with a 4-person team — a proactive
+        Android shield against scams and deepfakes: identify a suspicious link/message, verify a deepfake voice or
+        video call, and flag family after a red verdict.
+      </p>
+      <p>
+        <sub>Kotlin Android shell + Node.js backend, Groq for text checks, Gemini for image/video checks.</sub>
+      </p>
+      <p>
+        <a href="https://github.com/Arhamurrahemeen/Loop">
+          <img src="https://img.shields.io/badge/View%20Loop-1E3A8A?style=flat-square&logo=github&logoColor=white" alt="view loop"/>
         </a>
       </p>
     </td>
@@ -150,9 +180,11 @@
 
 <!-- ================= ACTIVITY ================= -->
 <!--
-  Streak SVG is self-hosted on the `output` branch (regenerated every 12h by
-  .github/workflows/snake.yml) instead of hotlinked to streak-stats.demolab.com,
-  whose public instance is frequently overloaded/503. See workflow for details.
+  Streak SVG is rendered by our own workflow (.github/workflows/snake.yml, using
+  the DenverCoder1/github-readme-streak-stats Action + our own repo token) and
+  committed to the `output` branch every 12h, instead of hotlinking
+  streak-stats.demolab.com — the shared public instance is frequently down or
+  rate-limited and was intermittently serving an "API issue" error graphic.
 -->
 <p align="center">
   <a href="https://github.com/Arhamurrahemeen">
@@ -170,7 +202,7 @@
   1. Commit .github/workflows/snake.yml (provided alongside this README)
   2. Go to your repo → Settings → Actions → General → set Workflow permissions
      to "Read and write permissions" → Save
-  3. Go to Actions tab → run the "Generate Snake" workflow manually the first time
+  3. Go to Actions tab → run the "Generate Profile Assets" workflow manually the first time
   4. That creates the `output` branch containing the SVGs referenced below
   See: https://github.com/Platane/snk
 -->

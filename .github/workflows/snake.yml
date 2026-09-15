@@ -27,11 +27,12 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Fetch streak stats SVG (falls back to last good copy if the demolab host is down)
-        run: |
-          curl -sf "https://streak-stats.demolab.com?user=Arhamurrahemeen&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=3B82F6" -o dist/streak-stats.svg \
-            || curl -sf "https://raw.githubusercontent.com/Arhamurrahemeen/Arhamurrahemeen/output/streak-stats.svg" -o dist/streak-stats.svg \
-            || echo "streak-stats.demolab.com unavailable and no prior copy found; skipping"
+      - name: Generate streak stats SVG (self-rendered, not the shared demolab.com instance)
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: "user=Arhamurrahemeen&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=3B82F6"
+          path: dist/streak-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push generated SVGs to `output` branch
         uses: crazy-max/ghaction-github-pages@v4
