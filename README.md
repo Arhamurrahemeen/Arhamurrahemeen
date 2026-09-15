@@ -15,7 +15,7 @@
 
 <!-- ================= BADGES ================= -->
 <p align="center">
-  <a href="https://github.com/Arhamurrahemeen/TwinLab-AI">
+  <a href="https://github.com/Arhamurrahemeen/TwinLab">
     <img src="https://img.shields.io/badge/2nd%20Runner--Up-ELXR'26%20%C2%B7%20KSBL-F59E0B?style=for-the-badge&logo=trophy&logoColor=white&labelColor=1f1f1f" alt="ELXR 2nd runner-up"/>
   </a>
   <a href="https://github.com/Arhamurrahemeen?tab=followers">
@@ -41,14 +41,14 @@
       <h3>2nd Runner-Up — ELXR'26, KSBL Karachi</h3>
       <p>
         Placed 2nd runner-up at the <b>ELXR'26 National Hackathon</b> hosted by <b>Karachi School of Business & Leadership</b>
-        with <a href="https://github.com/Arhamurrahemeen/TwinLab-AI"><b>TwinLab</b></a> — an IIoT predictive
+        with <a href="https://github.com/Arhamurrahemeen/TwinLab"><b>TwinLab</b></a> — an IIoT predictive
         maintenance platform for Pakistan's textile & FMCG plants, built under my startup <b>OmniteX</b>.
       </p>
       <p>
         <sub>Currently a finalist at both NIC Karachi and SEIC Karachi incubation programs.</sub>
       </p>
       <p>
-        <a href="https://github.com/Arhamurrahemeen/TwinLab-AI">
+        <a href="https://github.com/Arhamurrahemeen/TwinLab">
           <img src="https://img.shields.io/badge/View%20TwinLab-1E3A8A?style=flat-square&logo=github&logoColor=white" alt="view twinlab"/>
         </a>
       </p>
@@ -106,11 +106,11 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏭 <a href="https://github.com/Arhamurrahemeen/TwinLab-AI">TwinLab-AI</a></h3>
+      <h3>🏭 <a href="https://github.com/Arhamurrahemeen/TwinLab">TwinLab</a></h3>
       <p>IIoT predictive maintenance for Pakistan's textile & FMCG plants. 2nd Runner-Up, ELXR'26.</p>
       <p>
-        <img src="https://img.shields.io/github/stars/Arhamurrahemeen/TwinLab-AI?style=flat-square&logo=github&labelColor=1f1f1f&color=3B82F6" alt="stars"/>
-        <img src="https://img.shields.io/github/last-commit/Arhamurrahemeen/TwinLab-AI?style=flat-square&logo=github&labelColor=1f1f1f&color=3B82F6" alt="last commit"/>
+        <img src="https://img.shields.io/github/stars/Arhamurrahemeen/TwinLab?style=flat-square&logo=github&labelColor=1f1f1f&color=3B82F6" alt="stars"/>
+        <img src="https://img.shields.io/github/last-commit/Arhamurrahemeen/TwinLab?style=flat-square&logo=github&labelColor=1f1f1f&color=3B82F6" alt="last commit"/>
         <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square&logo=python&logoColor=white" alt="python"/>
       </p>
     </td>
