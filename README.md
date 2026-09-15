@@ -9,14 +9,14 @@
 <!-- ================= TYPING SVG ================= -->
 <p align="center">
   <a href="https://github.com/Arhamurrahemeen">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&multiline=false&width=760&height=45&lines=ELXR%2726+Winner+%C2%B7+KSBL+Karachi;Founder+%40+TwinLab+%C2%B7+IIoT+%2B+Embedded+Systems;Computer+Systems+Engineer+%40+DUET;Ship+first%2C+polish+later" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&multiline=false&width=760&height=45&lines=2nd+Runner-Up%2C+ELXR%2726+%C2%B7+KSBL+Karachi;Founder+%26+CEO+%40+OmniteX+%C2%B7+IIoT+%2B+Embedded+Systems;Computer+Systems+Engineer+%40+DUET;Ship+first%2C+polish+later" alt="typing"/>
   </a>
 </p>
 
 <!-- ================= BADGES ================= -->
 <p align="center">
   <a href="https://github.com/Arhamurrahemeen/TwinLab-AI">
-    <img src="https://img.shields.io/badge/Winner-ELXR'26%20%C2%B7%20KSBL-F59E0B?style=for-the-badge&logo=trophy&logoColor=white&labelColor=1f1f1f" alt="ELXR winner"/>
+    <img src="https://img.shields.io/badge/2nd%20Runner--Up-ELXR'26%20%C2%B7%20KSBL-F59E0B?style=for-the-badge&logo=trophy&logoColor=white&labelColor=1f1f1f" alt="ELXR 2nd runner-up"/>
   </a>
   <a href="https://github.com/Arhamurrahemeen?tab=followers">
     <img src="https://img.shields.io/github/followers/Arhamurrahemeen?style=for-the-badge&logo=github&labelColor=1f1f1f&color=EC4899" alt="followers"/>
@@ -38,14 +38,14 @@
       <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f3c6.png" width="96" alt="trophy"/>
     </td>
     <td width="82%" valign="middle">
-      <h3>Winner — ELXR'26, KSBL Karachi</h3>
+      <h3>2nd Runner-Up — ELXR'26, KSBL Karachi</h3>
       <p>
-        Took first place at the <b>ELXR'26 National Hackathon</b> hosted by <b>Karachi School of Business & Leadership</b>
-        with <a href="https://github.com/Arhamurrahemeen/TwinLab-AI"><b>TwinLab</b></a> — a generator-first
-        IIoT predictive maintenance platform built for Pakistan's asset-heavy SMEs.
+        Placed 2nd runner-up at the <b>ELXR'26 National Hackathon</b> hosted by <b>Karachi School of Business & Leadership</b>
+        with <a href="https://github.com/Arhamurrahemeen/TwinLab-AI"><b>TwinLab</b></a> — an IIoT predictive
+        maintenance platform for Pakistan's textile & FMCG plants, built under my startup <b>OmniteX</b>.
       </p>
       <p>
-        <sub>Wireless condition monitoring + WhatsApp alerts, priced in PKR. Pilots at HSK Bone Care, Shahruk Shell, NFL Faisalabad.</sub>
+        <sub>Currently a finalist at both NIC Karachi and SEIC Karachi incubation programs.</sub>
       </p>
       <p>
         <a href="https://github.com/Arhamurrahemeen/TwinLab-AI">
@@ -66,11 +66,11 @@
 </p>
 
 <ul>
-  <li>🏭 Founder of <b>TwinLab</b> — generator-first IIoT predictive maintenance for Pakistan's SMEs. <b>ELXR'26 winner</b>.</li>
+  <li>🏭 Founder & CEO of <b>OmniteX</b>, building <b>TwinLab</b> — IIoT predictive maintenance for Pakistan's textile & FMCG plants. <b>2nd Runner-Up, ELXR'26</b>.</li>
+  <li>🛡️ Built <b>Loop</b> — an Android shield against scams & deepfakes. <b>3rd Place, Social Nova Hackathon 2026</b> (Habib University).</li>
   <li>🫀 Built <b>VitalSense</b> — camera-based real-time vital signs monitor using rPPG + DSP + LLMs.</li>
-  <li>⚡ Learning <b>CUDA</b>, parallel computing, and everything that makes silicon go brrr.</li>
   <li>🧪 Documenting my methodology in <b>The-Arham-Way</b> — a blueprint-first approach to shipping full-stack apps with LLMs.</li>
-  <li>📍 Karachi, Pakistan · 🎯 NIC Hyderabad / NIC Karachi · 🏢 OmniteX</li>
+  <li>📍 Karachi, Pakistan · 🎯 NIC Karachi & SEIC Karachi finalist</li>
 </ul>
 
 <p align="center"><i>"Compression over completeness. Ship first, polish later."</i></p>
@@ -107,7 +107,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🏭 <a href="https://github.com/Arhamurrahemeen/TwinLab-AI">TwinLab-AI</a></h3>
-      <p>Generator-first IIoT predictive maintenance for Pakistan's asset-heavy SMEs. WhatsApp alerts, priced in PKR.</p>
+      <p>IIoT predictive maintenance for Pakistan's textile & FMCG plants. 2nd Runner-Up, ELXR'26.</p>
       <p>
         <img src="https://img.shields.io/github/stars/Arhamurrahemeen/TwinLab-AI?style=flat-square&logo=github&labelColor=1f1f1f&color=3B82F6" alt="stars"/>
         <img src="https://img.shields.io/github/last-commit/Arhamurrahemeen/TwinLab-AI?style=flat-square&logo=github&labelColor=1f1f1f&color=3B82F6" alt="last commit"/>
@@ -126,12 +126,12 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/Arhamurrahemeen/An-Even-Easier-Introduction-to-CUDA">CUDA notes</a></h3>
-      <p>Learning the fundamentals of GPU acceleration and parallel computing. Documented, worked through, tested.</p>
+      <h3>🛡️ <a href="https://github.com/Arhamurrahemeen/Loop">Loop</a></h3>
+      <p>Proactive Android shield against scams & deepfakes. 3rd Place, Social Nova Hackathon 2026.</p>
       <p>
-        <img src="https://img.shields.io/github/stars/Arhamurrahemeen/An-Even-Easier-Introduction-to-CUDA?style=flat-square&logo=github&labelColor=1f1f1f&color=3B82F6" alt="stars"/>
-        <img src="https://img.shields.io/badge/Jupyter-3B82F6?style=flat-square&logo=jupyter&logoColor=white" alt="jupyter"/>
-        <img src="https://img.shields.io/badge/CUDA-3B82F6?style=flat-square&logo=nvidia&logoColor=white" alt="cuda"/>
+        <img src="https://img.shields.io/github/stars/Arhamurrahemeen/Loop?style=flat-square&logo=github&labelColor=1f1f1f&color=3B82F6" alt="stars"/>
+        <img src="https://img.shields.io/github/last-commit/Arhamurrahemeen/Loop?style=flat-square&logo=github&labelColor=1f1f1f&color=3B82F6" alt="last commit"/>
+        <img src="https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square&logo=kotlin&logoColor=white" alt="kotlin"/>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -149,15 +149,14 @@
 <br/>
 
 <!-- ================= ACTIVITY ================= -->
+<!--
+  Streak SVG is self-hosted on the `output` branch (regenerated every 12h by
+  .github/workflows/snake.yml) instead of hotlinked to streak-stats.demolab.com,
+  whose public instance is frequently overloaded/503. See workflow for details.
+-->
 <p align="center">
   <a href="https://github.com/Arhamurrahemeen">
-    <img height="180" src="https://streak-stats.demolab.com?user=Arhamurrahemeen&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=3B82F6" alt="streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Arhamurrahemeen">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arhamurrahemeen&bg_color=0D1117&color=3B82F6&line=60A5FA&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution+Graph" alt="activity-graph"/>
+    <img height="180" src="https://raw.githubusercontent.com/Arhamurrahemeen/Arhamurrahemeen/output/streak-stats.svg" alt="streak"/>
   </a>
 </p>
 
@@ -167,7 +166,7 @@
 <p align="center"><img src="docs/assets/divider-04-snake.svg" width="100%" alt="Section 04 — Contribution snake"/></p>
 
 <!--
-  REQUIRED SETUP for the snake to render:
+  REQUIRED SETUP for the snake (and the streak-stats SVG above) to render:
   1. Commit .github/workflows/snake.yml (provided alongside this README)
   2. Go to your repo → Settings → Actions → General → set Workflow permissions
      to "Read and write permissions" → Save
