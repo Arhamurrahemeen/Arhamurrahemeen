@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/2nd%20Runner--Up-ELXR'26%20%C2%B7%20KSBL-F59E0B?style=for-the-badge&logo=trophy&logoColor=white&labelColor=1f1f1f" alt="ELXR 2nd runner-up"/>
   </a>
   <a href="https://github.com/Arhamurrahemeen/Loop">
-    <img src="https://img.shields.io/badge/3rd%20Place-Social%20Nova%20'26-3B82F6?style=for-the-badge&logo=android&logoColor=white&labelColor=1f1f1f" alt="Loop 3rd place"/>
+    <img src="https://img.shields.io/badge/Honorable%20Mention-Social%20Nova%20'26-3B82F6?style=for-the-badge&logo=android&logoColor=white&labelColor=1f1f1f" alt="Loop honorable mention"/>
   </a>
   <a href="https://github.com/Arhamurrahemeen?tab=followers">
     <img src="https://img.shields.io/github/followers/Arhamurrahemeen?style=for-the-badge&logo=github&labelColor=1f1f1f&color=EC4899" alt="followers"/>
@@ -65,10 +65,10 @@
 <table align="center" width="90%">
   <tr>
     <td width="18%" align="center" valign="middle">
-      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f949.png" width="96" alt="bronze medal"/>
+      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f3c5.png" width="96" alt="medal"/>
     </td>
     <td width="82%" valign="middle">
-      <h3>3rd Place — Social Nova Hackathon 2026, Habib University</h3>
+      <h3>Honorable Mention — Social Nova Hackathon 2026, Habib University</h3>
       <p>
         Built <a href="https://github.com/Arhamurrahemeen/Loop"><b>Loop</b></a> with a 4-person team — a proactive
         Android shield against scams and deepfakes: identify a suspicious link/message, verify a deepfake voice or
@@ -97,7 +97,7 @@
 
 <ul>
   <li>🏭 Founder & CEO of <b>OmniteX</b>, building <b>TwinLab</b> — IIoT predictive maintenance for Pakistan's textile & FMCG plants. <b>2nd Runner-Up, ELXR'26</b>.</li>
-  <li>🛡️ Built <b>Loop</b> — an Android shield against scams & deepfakes. <b>3rd Place, Social Nova Hackathon 2026</b> (Habib University).</li>
+  <li>🛡️ Built <b>Loop</b> — an Android shield against scams & deepfakes. <b>Honorable Mention, Social Nova Hackathon 2026</b> (Habib University).</li>
   <li>🫀 Built <b>VitalSense</b> — camera-based real-time vital signs monitor using rPPG + DSP + LLMs.</li>
   <li>🧪 Documenting my methodology in <b>The-Arham-Way</b> — a blueprint-first approach to shipping full-stack apps with LLMs.</li>
   <li>📍 Karachi, Pakistan · 🎯 NIC Karachi & SEIC Karachi finalist</li>
@@ -157,7 +157,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/Arhamurrahemeen/Loop">Loop</a></h3>
-      <p>Proactive Android shield against scams & deepfakes. 3rd Place, Social Nova Hackathon 2026.</p>
+      <p>Proactive Android shield against scams & deepfakes. Honorable Mention, Social Nova Hackathon 2026.</p>
       <p>
         <img src="https://img.shields.io/github/stars/Arhamurrahemeen/Loop?style=flat-square&logo=github&labelColor=1f1f1f&color=3B82F6" alt="stars"/>
         <img src="https://img.shields.io/github/last-commit/Arhamurrahemeen/Loop?style=flat-square&logo=github&labelColor=1f1f1f&color=3B82F6" alt="last commit"/>
