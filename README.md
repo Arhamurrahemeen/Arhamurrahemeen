@@ -9,7 +9,7 @@
 <!-- ================= TYPING SVG ================= -->
 <p align="center">
   <a href="https://github.com/Arhamurrahemeen">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&multiline=false&width=760&height=45&lines=2nd+Runner-Up%2C+ELXR%2726+%C2%B7+KSBL+Karachi;Founder+%26+CEO+%40+OmniteX+%C2%B7+IIoT+%2B+Embedded+Systems;Computer+Systems+Engineer+%40+DUET;Ship+first%2C+polish+later" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&multiline=false&width=760&height=45&lines=2nd+Runner-Up%2C+ELXR%2726+%C2%B7+KSBL+Karachi;Grand+Finalist%2C+Alibaba+Cloud+AI+Hackathon+2026;Excellence+Award+%C2%B7+KMC+%C3%97+Salam+Karachi;Founder+%26+CEO+%40+OmniteX+%C2%B7+IIoT+%2B+Embedded+Systems;Computer+System+Engineer+%40+DUET;Ship+first%2C+polish+later" alt="typing"/>
   </a>
 </p>
 
@@ -17,6 +17,12 @@
 <p align="center">
   <a href="https://github.com/Arhamurrahemeen/TwinLab">
     <img src="https://img.shields.io/badge/2nd%20Runner--Up-ELXR'26%20%C2%B7%20KSBL-F59E0B?style=for-the-badge&logo=trophy&logoColor=white&labelColor=1f1f1f" alt="ELXR 2nd runner-up"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Grand%20Finalist-Alibaba%20Cloud%20AI%20Hackathon%20'26-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white&labelColor=1f1f1f" alt="Alibaba Cloud AI Hackathon grand finalist"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Excellence%20Award-KMC%20%C2%B7%20Salam%20Karachi-10B981?style=for-the-badge&logo=starship&logoColor=white&labelColor=1f1f1f" alt="Excellence Award"/>
   </a>
   <a href="https://github.com/Arhamurrahemeen/Loop">
     <img src="https://img.shields.io/badge/Honorable%20Mention-Social%20Nova%20'26-3B82F6?style=for-the-badge&logo=android&logoColor=white&labelColor=1f1f1f" alt="Loop honorable mention"/>
@@ -48,12 +54,46 @@
         maintenance platform for Pakistan's textile & FMCG plants, built under my startup <b>OmniteX</b>.
       </p>
       <p>
-        <sub>Currently a finalist at both NIC Karachi and SEIC Karachi incubation programs.</sub>
-      </p>
-      <p>
         <a href="https://github.com/Arhamurrahemeen/TwinLab">
           <img src="https://img.shields.io/badge/View%20TwinLab-1E3A8A?style=flat-square&logo=github&logoColor=white" alt="view twinlab"/>
         </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ================= EXCELLENCE AWARD CARD ================= -->
+<table align="center" width="90%">
+  <tr>
+    <td width="18%" align="center" valign="middle">
+      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f396.png" width="96" alt="medal"/>
+    </td>
+    <td width="82%" valign="middle">
+      <h3>Excellence Award — Best Performance Student, KMC × Salam Karachi</h3>
+      <p>
+        Awarded by the <b>KMC Directorate</b> at the <b>Salam Karachi × DUET</b> event (Sep 2026) for representing
+        DUET at hackathons and competitions across Karachi, the <b>ELXR'26</b> 2nd runner-up finish, and leading as
+        Vice President of the <b>Society for Computing Engineers</b>.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ================= ALIBABA CARD ================= -->
+<table align="center" width="90%">
+  <tr>
+    <td width="18%" align="center" valign="middle">
+      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f680.png" width="96" alt="rocket"/>
+    </td>
+    <td width="82%" valign="middle">
+      <h3>Grand Finalist — Bano Qabil × Alibaba Cloud AI Hackathon Pakistan 2026</h3>
+      <p>
+        One of the few Karachi teams shortlisted for the grand finale out of <b>1,200 projects nationwide</b>,
+        pitching <a href="https://github.com/Arhamurrahemeen/TwinLab"><b>TwinLab</b></a> at the Pak-China Friendship Centre, Islamabad.
       </p>
     </td>
   </tr>
@@ -92,7 +132,7 @@
 <p align="center"><img src="docs/assets/divider-01-about.svg" width="100%" alt="Section 01 — About me"/></p>
 
 <p align="center">
-  I'm <b>Muhammad Arham</b> — a Computer Systems Engineering student at <b>DUET Karachi</b> who spends most of his time shipping things.
+  I'm <b>Muhammad Arham</b> — a Computer System Engineering student at <b>DUET Karachi</b> who spends most of his time shipping things.
 </p>
 
 <ul>
@@ -100,7 +140,8 @@
   <li>🛡️ Built <b>Loop</b> — an Android shield against scams & deepfakes. <b>Honorable Mention, Social Nova Hackathon 2026</b> (Habib University).</li>
   <li>🫀 Built <b>VitalSense</b> — camera-based real-time vital signs monitor using rPPG + DSP + LLMs.</li>
   <li>🧪 Documenting my methodology in <b>The-Arham-Way</b> — a blueprint-first approach to shipping full-stack apps with LLMs.</li>
-  <li>📍 Karachi, Pakistan · 🎯 NIC Karachi & SEIC Karachi finalist</li>
+  <li>🏆 Grand Finalist, Alibaba Cloud AI Hackathon 2026 · 🎖️ Excellence Award (Best Performance Student), KMC × Salam Karachi · 🥇 1st place, IoBM Master's Expo</li>
+  <li>📍 Karachi, Pakistan · VP, Society for Computing Engineers @ DUET</li>
 </ul>
 
 <p align="center"><i>"Compression over completeness. Ship first, polish later."</i></p>
@@ -112,7 +153,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,rust,java,js,ts,react,vite,tailwind,html,css&theme=dark" alt="languages"/>
+    <img src="https://skillicons.dev/icons?i=c,python,cpp,rust,java,js,ts,react,vite,tailwind,html,css&theme=dark" alt="languages"/>
   </a>
 </p>
 
@@ -125,6 +166,12 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,anaconda,jupyter,git,github,vscode,figma&theme=dark" alt="ai/tools"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="embedded"/>
   </a>
 </p>
 
